@@ -1,0 +1,5 @@
+asyncio==3.4.3
+colorama==0.4.4
+DateTime==4.3
+discord==1.0.1
+discord.py==1.5.1
