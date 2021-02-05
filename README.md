@@ -1,4 +1,4 @@
-Boas, desta vez vou vos mandei-vos um webhook grabber.. para usar isto voces vao precisar de:
+Boas, desta vez vou vos mandar um webhook grabber.. para usar isto voces vao precisar de:
 1 bot do discord
 1 pc
 python
